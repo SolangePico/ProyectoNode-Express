@@ -1,0 +1,15 @@
+{
+  "name": "cursonode-express",
+  "version": "0.0.1",
+  "description": "trabajo de back para cono",
+  "main": "srs/index.js",
+  "scripts": {
+    "start": "node srs/index.js\n",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Solange Pico",
+  "license": "MIT",
+  "dependencies": {
+    "countries-list": "^2.5.6"
+  }
+}
